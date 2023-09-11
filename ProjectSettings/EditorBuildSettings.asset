@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MENU.unity
+    guid: 2c852ce404d1f344d8968cca352d57f3
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 1 SOL.unity
+    guid: 14ba72eaf3edbb44d90c4cc6dd10086a
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 2 AGUA.unity
+    guid: e7dfd2ee769dd9343992e879287b0207
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 3 FUEGO.unity
+    guid: d127458cfa11a5f41bdc7a8c40927fc7
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 4 AIRE.unity
+    guid: aa0869396c1f54a4187289d1d3df6b31
+  m_configObjects: {}
