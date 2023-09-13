@@ -35,7 +35,7 @@ Transform:
   m_Children:
   - {fileID: 4065709496786178342}
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 45, y: 0, z: 45}
 --- !u!33 &523495081710496800
 MeshFilter:
@@ -218,7 +218,7 @@ Light:
       e33: 1
     m_UseCullingMatrixOverride: 0
   m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
+  m_DrawHalo: 1
   m_Flare: {fileID: 0}
   m_RenderMode: 0
   m_CullingMask:
